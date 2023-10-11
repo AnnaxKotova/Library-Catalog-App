@@ -1,0 +1,35 @@
+[
+    {
+      "name": "John Doe",
+      "libraryCardNumber": "LIB12345",
+      "borrowedBooks": [
+        {
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "dueDate": "2023-09-15"
+        },
+        {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "dueDate": "2023-09-10"
+        }
+      ]
+    },
+    {
+      "name": "Alice Smith",
+      "libraryCardNumber": "LIB67890",
+      "borrowedBooks": [
+        {
+          "title": "Pride and Prejudice",
+          "author": "Jane Austen",
+          "dueDate": "2023-09-20"
+        }
+      ]
+    },
+    {
+      "name": "Bob Johnson",
+      "libraryCardNumber": "LIB24680",
+      "borrowedBooks": []
+    }
+  ]
+  
